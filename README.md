@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">a simple program that detects objects shown from your camer</p>
+<p align="center">a simple program that detects objects</p>
 
 ###
 
