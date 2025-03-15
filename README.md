@@ -29,7 +29,6 @@ a simple program that detects objects
 ###
 
 ## Project Overview
+![screenshot1](https://i.imgur.com/T0u56Ev.png)
 
 ###
-
-![screenshot1](https://i.imgur.com/T0u56Ev.png)
