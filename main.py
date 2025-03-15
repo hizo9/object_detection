@@ -2,8 +2,8 @@
 from ultralytics import YOLO
 
 # config
-model = YOLO("yolo11n.pt")
-results = model(1, show=True)
+model = YOLO("models/yolo11s.pt")
+results = model(1, show=True, conf=0.5)
 
 # code
 for result in results:
