@@ -2,7 +2,7 @@
 from ultralytics import YOLO
 
 # config
-model = YOLO("models/yolo11s.pt")
+model = YOLO("models/yolo11n.pt")
 results = model(1, show=True, conf=0.5)
 
 # code
