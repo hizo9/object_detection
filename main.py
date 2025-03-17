@@ -1,8 +1,8 @@
 # imports
 from ultralytics import YOLO
 
-# config
-model = YOLO("models/yolo11n.pt")
+# configs
+model = YOLO("yolo11m.pt")
 results = model(1, show=True, conf=0.5)
 
 # code
