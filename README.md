@@ -22,7 +22,7 @@
 ###
 
 ## Object Detection
-a simple program that detects objects
+a simple program that detects common objects
 
 <br>
 
